@@ -1,0 +1,19 @@
+.UserOutput {
+    background-color: #ddd;
+    border: 1px solid black;
+    margin: 5px auto;
+    padding: 10px;
+    width: 400px;
+}
+
+.UserOutput .title {
+    margin: 0;
+}
+
+.UserOutput .content {
+    background-color: black;
+    color: greenyellow;
+    font-family: monospace;
+    margin: 0 auto;
+    width: 80%
+}
